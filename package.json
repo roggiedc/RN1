@@ -83,5 +83,10 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "overrides": {
+    "react-native@0.64.3": {
+      "hermes-engine": "0.11.0"
+    }
+  }
 }
