@@ -76,12 +76,8 @@
     "moment": "2.29.4",
     "minimist": "1.2.6",
     "async": "3.2.4",
-    "ansi-regex": "4.1.1",
-    "hermes-engine": "0.11.0",
-    "execa": "2.0.0",
-    "glob-parent": "6.0.1",
-    "node-fetch": "3.2.10",
-    "yargs": "15.0",
-    "ws": "8.8.1"
+    "node-fetch": "2.6.7",
+    "ansi-regex": "3.0.1",
+    "hermes-engine": "0.11.0"
   }
 }
