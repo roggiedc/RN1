@@ -80,7 +80,7 @@
     "hermes-engine": "0.11.0",
     "execa": "2.0.0",
     "glob-parent": "6.0.1",
-    "node-fetch": "3.1.1",
+    "node-fetch": "3.2.10",
     "yargs": "15.0"
   }
 }
