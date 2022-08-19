@@ -70,6 +70,10 @@
   },
   "private": true,
   "resolutions": {
-    "kind-of": "6.0.3"
+    "kind-of": "6.0.3",
+    "execa": "6.0.1",
+    "node-fetch": "3.2.10",
+    "yargs": "17.5.1"
+    
   }
 }
