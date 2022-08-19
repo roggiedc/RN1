@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -66,5 +67,8 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "resolutions": {
+    "hermes-engine": "0.8.0"
+  }
 }
