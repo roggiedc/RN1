@@ -70,6 +70,6 @@
   },
   "private": true,
   "resolutions": {
-    "hoek": "6.0.3"
+    "kind-of": "6.0.3"
   }
 }
