@@ -48,7 +48,6 @@
     "react-native-gesture-handler": "~2.1.1",
     "react-native-keyboard-aware-scroll-view": "^0.9.5",
     "react-native-modal-datetime-picker": "^13.1.2",
-    "react-native-otp-verify": "^1.0.5",
     "react-native-paper": "^4.12.1",
     "react-native-phone-number-input": "^2.1.0",
     "react-native-rapi-ui": "^0.2.1",
