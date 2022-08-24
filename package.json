@@ -1,6 +1,8 @@
 {
   "name": "bcremit",
   "version": "1.0.0",
+  "description": "BCRemit react native application for money remittance service.",
+  "license": "BCRemit",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
