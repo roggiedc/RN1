@@ -77,7 +77,8 @@
     "yargs": "15.0",
     "@react-native-community/cli": "5.0.1",
     "fbemitter": "3.0.0",
-    "@expo/image-utils": "0.3.22"
+    "@expo/image-utils": "0.3.22",
+    "kind-of": "0.3.22"
   },
   "private": true
 }
