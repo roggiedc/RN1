@@ -76,7 +76,7 @@
     "glob-parent": "6.0.2",
     "ws": "3.3.1",
     "yargs": "15.0",
-    "@react-native-community/cli": "9.0.0"
+    "@react-native-community/cli": "5.0.1"
   },
   "private": true
 }
