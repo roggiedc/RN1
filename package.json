@@ -78,7 +78,6 @@
     "yargs": "15.0",
     "@react-native-community/cli": "5.0.1",
     "@expo/vector-icons": "13.0.0"
-
   },
   "private": true
 }
